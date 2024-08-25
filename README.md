@@ -9,6 +9,7 @@ This project is a simple Rock-Paper-Scissors game built using HTML, CSS, and Jav
 - **Score Tracking:** Keeps track of the player's score over multiple rounds.
 
 ![Login Page Screenshot](RPS.png)
+<hr>
 
 This project serves as a practical application of my skills and reinforces my understanding of core web technologies.
 
