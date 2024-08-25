@@ -8,6 +8,10 @@ This project is a simple Rock-Paper-Scissors game built using HTML, CSS, and Jav
 - **Real-time Results:** Displays the result of each round, indicating whether the user won, lost, or tied.
 - **Score Tracking:** Keeps track of the player's score over multiple rounds.
 
+![Login Page Screenshot](assets/loginPage.png)
+
 This project serves as a practical application of my skills and reinforces my understanding of core web technologies.
 
 <u>Thank you for checking out my project!</u>
+
+
